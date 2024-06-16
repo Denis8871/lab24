@@ -1,0 +1,20 @@
+C:\Users\utr54\source\repos\Lab 24 Shostya\bin\Debug\Lab 24 Shostya.exe.config
+C:\Users\utr54\source\repos\Lab 24 Shostya\bin\Debug\Lab 24 Shostya.exe
+C:\Users\utr54\source\repos\Lab 24 Shostya\bin\Debug\Lab 24 Shostya.pdb
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.csproj.AssemblyReference.cache
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\MultiThreadingEncryption.MainForm.resources
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\Lab_24_Shostya.Properties.Resources.resources
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.csproj.GenerateResource.cache
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.csproj.CoreCompileInputs.cache
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.exe
+C:\Users\utr54\source\repos\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.pdb
+C:\Users\utr54\Desktop\Lab 24 Shostya\bin\Debug\Lab 24 Shostya.exe.config
+C:\Users\utr54\Desktop\Lab 24 Shostya\bin\Debug\Lab 24 Shostya.exe
+C:\Users\utr54\Desktop\Lab 24 Shostya\bin\Debug\Lab 24 Shostya.pdb
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.csproj.AssemblyReference.cache
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\MultiThreadingEncryption.MainForm.resources
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\Lab_24_Shostya.Properties.Resources.resources
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.csproj.GenerateResource.cache
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.csproj.CoreCompileInputs.cache
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.exe
+C:\Users\utr54\Desktop\Lab 24 Shostya\obj\Debug\Lab 24 Shostya.pdb

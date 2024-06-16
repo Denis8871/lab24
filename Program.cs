@@ -1,4 +1,4 @@
-﻿using Lab_24_Dykyi;
+﻿using Lab_24_Shostya;
 using System;
 using System.Windows.Forms;
 

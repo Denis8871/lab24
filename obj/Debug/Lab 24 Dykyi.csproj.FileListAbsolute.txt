@@ -1,0 +1,20 @@
+C:\Users\utr54\source\repos\Lab 24 Dykyi\bin\Debug\Lab 24 Dykyi.exe.config
+C:\Users\utr54\source\repos\Lab 24 Dykyi\bin\Debug\Lab 24 Dykyi.exe
+C:\Users\utr54\source\repos\Lab 24 Dykyi\bin\Debug\Lab 24 Dykyi.pdb
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.csproj.AssemblyReference.cache
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\MultiThreadingEncryption.MainForm.resources
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\Lab_24_Dykyi.Properties.Resources.resources
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.csproj.GenerateResource.cache
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.csproj.CoreCompileInputs.cache
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.exe
+C:\Users\utr54\source\repos\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.pdb
+C:\Users\utr54\Desktop\Lab 24 Dykyi\bin\Debug\Lab 24 Dykyi.exe.config
+C:\Users\utr54\Desktop\Lab 24 Dykyi\bin\Debug\Lab 24 Dykyi.exe
+C:\Users\utr54\Desktop\Lab 24 Dykyi\bin\Debug\Lab 24 Dykyi.pdb
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.csproj.AssemblyReference.cache
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\MultiThreadingEncryption.MainForm.resources
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\Lab_24_Dykyi.Properties.Resources.resources
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.csproj.GenerateResource.cache
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.csproj.CoreCompileInputs.cache
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.exe
+C:\Users\utr54\Desktop\Lab 24 Dykyi\obj\Debug\Lab 24 Dykyi.pdb
